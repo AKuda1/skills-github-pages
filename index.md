@@ -4,7 +4,7 @@ title: Portfolio
 
 #Welcome to my Portfolio
 
-A | B 
+A | B | C | D | E
 ------------ | -------------
-:metal:|:camel:
+:metal:|:camel:|:octocat:|:tada:
 
