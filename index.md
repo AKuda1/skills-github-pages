@@ -6,5 +6,5 @@ title: Portfolio
 
 A | B 
 ------------ | -------------
-:metal: | :camel:
+:metal:|:camel:
 
