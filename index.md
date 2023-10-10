@@ -4,7 +4,7 @@ title: Portfolio
 
 #Welcome to my Portfolio
 
-First Header | Second Header 
+A | B 
 ------------ | -------------
-:metal: 
-:Rocket:
+:metal: | :Camel:
+
